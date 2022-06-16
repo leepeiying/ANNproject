@@ -1,7 +1,7 @@
 # ANNproject
 This is for Artificial Neural Network class final project.
 
-##版本
+# 版本
 
 
 ●tensorflow==2.2.0
@@ -22,12 +22,12 @@ This is for Artificial Neural Network class final project.
 ●opencv
 
 
-##dataset
+# dataset
 
 
 https://s3-us-west-2.amazonaws.com/static.pyimagesearch.com/face-mask-detection/face-mask-detector.zip
 
-##Network
+# Network
 
 
 MobileNetV2 network
@@ -44,6 +44,6 @@ MobileNetV2 network
 ![image](https://user-images.githubusercontent.com/46932872/174039386-2fdebe1b-bc10-464e-b9f1-0e648d0ad3b4.png)
 
 
-##詳細內容可以參考
+# 詳細內容可以參考
 
 類神經網路期末專題書面報告.pdf
