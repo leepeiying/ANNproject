@@ -2,22 +2,25 @@
 This is for Artificial Neural Network class final project.
 
 版本:
-tensorflow==2.2.0
 
 
-sklear
+●tensorflow==2.2.0
 
 
-matplotlib
+●sklear
 
 
-numpy
+●matplotlib
 
 
-imutils
+●numpy
 
 
-opencv
+●imutils
+
+
+●opencv
+
 
 dataset:
 
