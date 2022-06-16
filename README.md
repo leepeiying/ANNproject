@@ -3,10 +3,20 @@ This is for Artificial Neural Network class final project.
 
 版本
 tensorflow==2.2.0
+
+
 sklear
+
+
 matplotlib
+
+
 numpy
+
+
 imutils
+
+
 opencv
 
 dataset
